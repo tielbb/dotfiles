@@ -103,3 +103,4 @@ source $ZSH/oh-my-zsh.sh
 alias q='exit'
 alias :q='exit'
 alias stc='~/clash/start_clash.sh'
+
